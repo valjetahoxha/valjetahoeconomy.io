@@ -49,13 +49,13 @@ We analyzed the data across the political tenures:
 
 **German Chancellorships**: Merkel (2009-2021), Scholz (2021-2023)
 
-###Key steps:
+### Key steps:
 
 **Shaded Graphs**: Highlighted political terms to correlate economic trends with leadership changes.
 **Multi-Metric Plots**: Combined CPI and inflation data for a holistic view.
 **Cross-Country Comparisons**: Analyzed similarities and differences between the U.S. and Germany.
 
-##Key Visualizations
+## Key Visualizations
 **CPI Trends**: Evolution of consumer price indices in both countries.  
 
 **Inflation (Annual %, CPI)** : Fluctuations in annual consumer inflation rates.
