@@ -7,7 +7,7 @@ Group Members: Val Hoxha and Eneida Likaj
 ## Project Overview
 This project conducts a comparative analysis of inflation and economic trends in the United States and Germany from 2009 to 2023, focusing on the impact of political leadership changes in each country. Key economic indicators analyzed include:
 
-###  Consumer Price Index (CPI)
+###Consumer Price Index (CPI)
 Inflation (Annual %)
 GDP (Current US$)
 GDP Deflator (2010 base year)
