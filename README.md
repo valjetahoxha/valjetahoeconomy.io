@@ -32,31 +32,43 @@ GDP Deflator (2010 = 100): Measures economy-wide inflation relative to a 2010 ba
 
 ## Methodology
 
-Data Slicing: Extracted data for 2009-2023 for the U.S. and Germany.
-Cleaning: Handled missing or inconsistent data using interpolation.
-Indexing: Reformatted datasets to enable easier analysis and visualization.
-Base-Year Normalization: Addressed discrepancies in base years for GDP deflator metrics.
+**Data Slicing**: Extracted data for 2009-2023 for the U.S. and Germany.  
+
+**Cleaning**: Handled missing or inconsistent data using interpolation.  
+
+**Indexing**: Reformatted datasets to enable easier analysis and visualization.  
+
+**Base-Year Normalization**: Addressed discrepancies in base years for GDP deflator metrics.
 
 
 ## Analysis and Visualization
+
 We analyzed the data across the political tenures:
 
-U.S. Presidencies: Obama (2009-2017), Trump (2017-2021), Biden (2021-2023)
-German Chancellorships: Merkel (2009-2021), Scholz (2021-2023)
-Key steps:
+**U.S. Presidencies**: Obama (2009-2017), Trump (2017-2021), Biden (2021-2023)  
+
+**German Chancellorships**: Merkel (2009-2021), Scholz (2021-2023)
+
+###Key steps:
 
 **Shaded Graphs**: Highlighted political terms to correlate economic trends with leadership changes.
 **Multi-Metric Plots**: Combined CPI and inflation data for a holistic view.
 **Cross-Country Comparisons**: Analyzed similarities and differences between the U.S. and Germany.
 
 ##Key Visualizations
-CPI Trends: Evolution of consumer price indices in both countries.
-Inflation (Annual %, CPI): Fluctuations in annual consumer inflation rates.
-CPI vs. Inflation: Correlation between CPI levels and inflation rates.
-Inflation (GDP Deflator): Broader economic inflation trends.
-GDP (Current US$): Economic growth trends in both nations.
-GDP Deflator: Price level changes relative to the 2010 base year.
-Inflation Comparison (GDP Deflator vs CPI): Contrasting inflation measures over time.
+**CPI Trends**: Evolution of consumer price indices in both countries.  
+
+**Inflation (Annual %, CPI)** : Fluctuations in annual consumer inflation rates.
+
+**CPI vs. Inflation**: Correlation between CPI levels and inflation rates.
+
+**Inflation (GDP Deflator)**: Broader economic inflation trends.
+
+**GDP (Current US$)**: Economic growth trends in both nations.  
+
+**GDP Deflator**: Price level changes relative to the 2010 base year.  
+
+**Inflation Comparison (GDP Deflator vs CPI)**: Contrasting inflation measures over time. 
 
 
 ## Key Findings
