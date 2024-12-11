@@ -67,7 +67,7 @@ We analyzed the data across the political tenures:
 
  
 ![Alt text](  newplot.png)
-![Alt text](  newplotcopy.png)
+![Alt text](newplot copy.png) 
 ![Alt text](  newplotcopy2.png)
 ![Alt text](  newplotcopy3.png)
 ![Alt text](  newplotcopy4.png)
