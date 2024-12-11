@@ -67,9 +67,9 @@ We analyzed the data across the political tenures:
 
  
 ![Alt text](  newplot.png)
-![inflation based on CPI United States](newplot copy.png) 
-![Alt text](  newplot copy2.png)
-![Alt text](  newplot copy3.png)
+![inflation based on CPI US](newplot%copy.png) 
+![CPI and Inflation US](  newplot%copy2.png)
+![Inflation & GDP Deflator US](  newplot%copy3.png)
 ![Alt text](  newplot copy4.png)
 ![Alt text](  newplot copy5.png)
 ![Alt text](  newplot copy6.png)
