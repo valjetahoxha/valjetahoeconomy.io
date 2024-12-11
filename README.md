@@ -91,6 +91,8 @@ We analyzed the data across the political tenures:
 - U.S. inflation rates varied significantly across presidencies, reflecting differing policies during recovery periods and crises (e.g., COVID-19).  
 - Germany's inflation trends mirrored adjustments in fiscal strategies under Merkel and Scholz, especially during global economic events.  
 
+
+![conclusion](conclusion.png)
 ---
 
 ## **⚠️ Limitations**
