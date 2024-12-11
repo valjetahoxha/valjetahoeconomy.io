@@ -63,8 +63,10 @@ We analyzed the data across the political tenures:
 4. **Inflation (GDP Deflator):** Broader economic inflation trends.  
 5. **GDP (Current US$):** Economic growth trends in both nations.  
 6. **GDP Deflator:** Price level changes relative to the 2010 base year.  
-7. **Inflation Comparison (GDP Deflator vs CPI):** Contrasting inflation measures over time.  
+7. **Inflation Comparison (GDP Deflator vs CPI):** Contrasting inflation measures over time.
 
+ 
+![Alt text](  newplot.png)
 ---
 
 ## **📊 Key Findings**
