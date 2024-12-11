@@ -45,10 +45,11 @@ U.S. Presidencies: Obama (2009-2017), Trump (2017-2021), Biden (2021-2023)
 German Chancellorships: Merkel (2009-2021), Scholz (2021-2023)
 Key steps:
 
-Shaded Graphs: Highlighted political terms to correlate economic trends with leadership changes.
-Multi-Metric Plots: Combined CPI and inflation data for a holistic view.
-Cross-Country Comparisons: Analyzed similarities and differences between the U.S. and Germany.
-Key Visualizations
+**Shaded Graphs**: Highlighted political terms to correlate economic trends with leadership changes.
+**Multi-Metric Plots**: Combined CPI and inflation data for a holistic view.
+**Cross-Country Comparisons**: Analyzed similarities and differences between the U.S. and Germany.
+
+##Key Visualizations
 CPI Trends: Evolution of consumer price indices in both countries.
 Inflation (Annual %, CPI): Fluctuations in annual consumer inflation rates.
 CPI vs. Inflation: Correlation between CPI levels and inflation rates.
@@ -59,21 +60,23 @@ Inflation Comparison (GDP Deflator vs CPI): Contrasting inflation measures over 
 
 
 ## Key Findings
-Inflation Trends:
+**Inflation Trends**:
 
-The U.S. CPI showed greater volatility compared to Germany, influenced by economic policies and external shocks.
-Germany exhibited lower and steadier CPI-based inflation compared to the U.S.
-GDP Deflator Trends:
+* The U.S. CPI showed greater volatility compared to Germany, influenced by economic policies and external shocks.
+* Germany exhibited lower and steadier CPI-based inflation compared to the U.S.
+  
+**GDP Deflator Trends**:
 
-The U.S. GDP deflator revealed more pronounced price shifts, reflecting broader economic dynamics.
-Germany's GDP deflator remained relatively stable, indicative of consistent fiscal policies.
-Political Impact:
+* The U.S. GDP deflator revealed more pronounced price shifts, reflecting broader economic dynamics.
+* Germany's GDP deflator remained relatively stable, indicative of consistent fiscal policies.
+  
+**Political Impact:** 
 
-U.S. inflation rates varied significantly across presidencies, reflecting differing policies during recovery periods and crises (e.g., COVID-19).
-Germany's inflation trends mirrored adjustments in fiscal strategies under Merkel and Scholz, especially during global economic events.
+* U.S. inflation rates varied significantly across presidencies, reflecting differing policies during recovery periods and crises (e.g., COVID-19).
+* Germany's inflation trends mirrored adjustments in fiscal strategies under Merkel and Scholz, especially during global economic events.
 
 
-##Limitations
-Data Scope: Analysis focused on 2009-2023, limiting insights into long-term trends.
+## Limitations
+* Data Scope: Analysis focused on 2009-2023, limiting insights into long-term trends.
 External Events: Factors like the COVID-19 pandemic may have disproportionately influenced trends during specific periods.
-Comparison Challenges: Discrepancies in GDP deflator metrics were normalized but required careful contextual interpretation.
+* Comparison Challenges: Discrepancies in GDP deflator metrics were normalized but required careful contextual interpretation.
