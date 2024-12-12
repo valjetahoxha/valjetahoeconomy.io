@@ -9,7 +9,7 @@
     <h1>Economic Data Visualizations</h1>
     
     <h2>USA CPI Visualization</h2>
-     <!--#include virtual="USA_CPI.html" -->
+    {% include_relative USA_CPI.html %}
 
 </body>
 </html>
