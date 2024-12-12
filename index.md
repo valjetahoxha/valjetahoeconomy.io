@@ -57,7 +57,7 @@ We analyzed the data across the political tenures:
 
 ---
 
-## **📈 Key Visualizations**
+## **📈 Key Visualizations for both countries**
 1. **CPI Trends:** Evolution of consumer price indices in both countries.  
 2. **Inflation (Annual %, CPI):** Fluctuations in annual consumer inflation rates.  
 3. **CPI vs. Inflation:** Correlation between CPI levels and inflation rates.  
@@ -66,7 +66,9 @@ We analyzed the data across the political tenures:
 6. **GDP Deflator:** Price level changes relative to the 2010 base year.  
 7. **Inflation Comparison (GDP Deflator vs CPI):** Contrasting inflation measures over time.
 
- 
+
+## USA visualizations 
+
 {% include_relative USA_CPI.html %}
 {% include_relative USA_Inflation.html %}
 {% include_relative USA_CPInf.html %}
@@ -76,6 +78,15 @@ We analyzed the data across the political tenures:
 {% include_relative USA_econ.html %}
 
 
+## Germany visualizations 
+
+{% include_relative GER_CPI.html %}
+{% include_relative GER_Inflation.html %}
+{% include_relative GER_CPInf.html %}
+{% include_relative GER_GDPF.html %}
+{% include_relative GER_GDP$.html %}
+{% include_relative GER_gdp.html %}
+{% include_relative GER_econ.html %}
 ---
 
 
