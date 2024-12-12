@@ -11,5 +11,3 @@ Inquisitive, energetic and enthusiastic Computer Science student at Whitman Coll
 Whitman College | Expected: May 2025
 
 
-
--------------------     ----------------------------
