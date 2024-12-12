@@ -1,5 +1,5 @@
 
-# 📊 Analyzing Inflation and Economic Trends**  
+# 📊 Analyzing Inflation and Economic Trends
 ### *A Comparative Data Analysis of U.S. and German CPI, GDP, and Inflation Across Presidential and Chancellor Tenures*  
 [**🔗 Colab Notebook**](https://colab.research.google.com/drive/1UML-Yw0N9hM8dGBtFqaZXXMvbUHIwwmK?usp=sharing)
 
@@ -79,6 +79,7 @@ We analyzed the data across the political tenures:
 
 
 ## Germany visualizations 
+
 
 {% include_relative GER_CPI.html %}
 {% include_relative GER_Inflation.html %}
