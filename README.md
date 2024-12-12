@@ -81,7 +81,7 @@ We analyzed the data across the political tenures:
 [View Interactive Plot](https://valjetahoxha.github.io/valjetahoeconomy.io/newplot_copy.html)
 
 ### CPI and Inflation Trends in the US
-[View Interactive Plot](https://valjetahoxha.github.io/valjetahoeconomy.io/newplot_copy%202.html)
+[View Interactive Plot](https://valjetahoxha.github.io/valjetahoeconomy.io/germany1.html)
 
 ---
 
