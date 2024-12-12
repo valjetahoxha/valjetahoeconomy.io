@@ -83,22 +83,14 @@ We analyzed the data across the political tenures:
 7. **Inflation Comparison (GDP Deflator vs CPI):** Contrasting inflation measures over time.
 
  
-![Alt text]( newplot.png)
-![inflation based on CPI US]( newplot%20copy.png) 
-![CPI and Inflation US](newplot%20copy%202.png)
-![Inflation & GDP Deflator US](newplot%20copy%203.png)
-![Alt text](newplot%20copy%204.png)
-![Alt text](newplot%20copy%205.png)
-![Alt text](newplot%20copy%206.png)
-![Alt text](newplot%20copy%207.png)
-
-[View Interactive Plot](https://valjetahoxha.github.io/valjetahoeconomy.io/newplot.html)
-
-### Inflation Based on CPI (US)
-[View Interactive Plot](https://valjetahoxha.github.io/valjetahoeconomy.io/newplot_copy.html)
-
-### CPI and Inflation Trends in the US
-[View Interactive Plot](https://valjetahoxha.github.io/valjetahoeconomy.io/germany1.html)
+{% include_relative USA_CPI.html %}
+{% include_relative USA_Inflation.html %}
+{% include_relative USA_CPInf.html %}
+{% include_relative USA_GDPF.html %}
+{% include_relative USA_GDP$.html %}
+{% include_relative USA_gdp.html %}
+{% include_relative USA_econ.html %}
+{% include_relative USA_Compar.html %}
 
 ---
 
