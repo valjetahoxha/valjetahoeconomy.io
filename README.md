@@ -75,7 +75,16 @@ We analyzed the data across the political tenures:
 ![Alt text](newplot%20copy%206.png)
 ![Alt text](newplot%20copy%207.png)
 
+[View Interactive Plot](https://valjetahoxha.github.io/valjetahoeconomy.io/newplot.html)
+
+### Inflation Based on CPI (US)
+[View Interactive Plot](https://valjetahoxha.github.io/valjetahoeconomy.io/newplot_copy.html)
+
+### CPI and Inflation Trends in the US
+[View Interactive Plot](https://valjetahoxha.github.io/valjetahoeconomy.io/newplot_copy%202.html)
+
 ---
+
 
 ## **📊 Key Findings**
 
