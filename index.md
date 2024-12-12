@@ -1,5 +1,5 @@
 
-# **📊 Analyzing Inflation and Economic Trends**  
+# 📊 Analyzing Inflation and Economic Trends**  
 ### *A Comparative Data Analysis of U.S. and German CPI, GDP, and Inflation Across Presidential and Chancellor Tenures*  
 [**🔗 Colab Notebook**](https://colab.research.google.com/drive/1UML-Yw0N9hM8dGBtFqaZXXMvbUHIwwmK?usp=sharing)
 
@@ -74,7 +74,7 @@ We analyzed the data across the political tenures:
 {% include_relative USA_GDP$.html %}
 {% include_relative USA_gdp.html %}
 {% include_relative USA_econ.html %}
-{% include_relative USA_Compar.html %}
+
 
 ---
 
@@ -93,8 +93,8 @@ We analyzed the data across the political tenures:
 - U.S. inflation rates varied significantly across presidencies, reflecting differing policies during recovery periods and crises (e.g., COVID-19).  
 - Germany's inflation trends mirrored adjustments in fiscal strategies under Merkel and Scholz, especially during global economic events.  
 
+{% include_relative USA_Compar.html %}
 
-![conclusion](conclusion.png)
 ---
 
 ## **⚠️ Limitations**
