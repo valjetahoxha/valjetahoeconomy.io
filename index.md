@@ -1,6 +1,6 @@
 
 # 📊 Data Science
-### *A Comparative Data Analysis of U.S. and German CPI, GDP, and Inflation Across Presidential and Chancellor Tenures*  
+ A Comparative Data Analysis of U.S. and German CPI, GDP, and Inflation Across Presidential and Chancellor Tenures
 [**🔗 Colab Notebook**](https://colab.research.google.com/drive/1UML-Yw0N9hM8dGBtFqaZXXMvbUHIwwmK?usp=sharing)
 
 ---
