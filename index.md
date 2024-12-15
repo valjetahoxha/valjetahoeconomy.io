@@ -97,21 +97,15 @@ We analyzed the data across the political tenures:
 ---
 
 
-## **📊 Key Findings and Cross-Country Comparison**
+## **📊 Conclusion and Cross-Country Comparison**
 
-### **Inflation Trends**:
-- The **U.S. CPI** showed greater volatility compared to Germany, influenced by economic policies and external shocks.  
-- Germany exhibited **lower and steadier CPI-based inflation** compared to the U.S.  
+- **As expected USA shows a consistently higher and faster-growing CPI than Germany, indicating more significant cumulative price increases over the years. Germany's CPI remains more stable, reflecting controlled inflationary pressures compared to the USA.
 
-### **GDP Deflator Trends**:
-- The **U.S. GDP deflator** revealed more pronounced price shifts, reflecting broader economic dynamics.  
-- Germany's GDP deflator remained relatively stable, indicative of consistent fiscal policies.  
+- **Inflation Rates:
+Both countries experience a sharp increase in inflation post-2020, likely due to global economic disruptions (e.g., pandemic recovery, supply chain issues, energy crises). Inflation rates in both countries begin to stabilize by 2023, though Germany shows slightly lower rates than the USA.
+Overall, the plotted data aligned with our hypothesis, although there might be many more external factors that impacted the GDP, Inflation and CPI trends, which we did not mention in our data analysis.
 
-### **Political Impact**:
-- U.S. inflation rates varied significantly across presidencies, reflecting differing policies during recovery periods and crises (e.g., COVID-19).  
-- Germany's inflation trends mirrored adjustments in fiscal strategies under Merkel and Scholz, especially during global economic events.  
-
-
+{% include_relative GER_USA_Compar.html %}
 
 ---
 
