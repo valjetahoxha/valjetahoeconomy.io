@@ -73,10 +73,11 @@ We analyzed the data across the political tenures:
 {% include_relative USA_Inflation.html %}
 {% include_relative USA_CPInf.html %}
 {% include_relative USA_GDPF.html %}
-{ include_relative USA_GDP$.html %}
+{% include_relative USA_GDP$.html %}
 {% include_relative USA_GDPPP.html %}
 {% include_relative USA_gdp.html %}
 {% include_relative USA_econ.html %}
+{% include_relative USA_Compar.html %}
 
 
 ## Germany visualizations 
@@ -86,15 +87,17 @@ We analyzed the data across the political tenures:
 {% include_relative GER_Inflation.html %}
 {% include_relative GER_CPInf.html %}
 {% include_relative GER_GDPF.html %}
+{% include_relative GER_GDP$.html %}
 {% include_relative GER_GDPPP.html %}
 {% include_relative GER_gdp.html %}
 {% include_relative GER_econ.html %}
+{% include_relative GER_Compar.html %}
 
 
 ---
 
 
-## **📊 Key Findings**
+## **📊 Key Findings and Cross-Country Comparison**
 
 ### **Inflation Trends**:
 - The **U.S. CPI** showed greater volatility compared to Germany, influenced by economic policies and external shocks.  
@@ -108,7 +111,7 @@ We analyzed the data across the political tenures:
 - U.S. inflation rates varied significantly across presidencies, reflecting differing policies during recovery periods and crises (e.g., COVID-19).  
 - Germany's inflation trends mirrored adjustments in fiscal strategies under Merkel and Scholz, especially during global economic events.  
 
-{% include_relative USA_Compar.html %}
+
 
 ---
 
