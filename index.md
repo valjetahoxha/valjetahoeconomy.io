@@ -73,6 +73,7 @@ We analyzed the data across the political tenures:
 {% include_relative USA_Inflation.html %}
 {% include_relative USA_CPInf.html %}
 {% include_relative USA_GDPF.html %}
+{ include_relative USA_GDP$.html %}
 {% include_relative USA_GDPPP.html %}
 {% include_relative USA_gdp.html %}
 {% include_relative USA_econ.html %}
