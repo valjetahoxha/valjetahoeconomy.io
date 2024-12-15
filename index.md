@@ -102,7 +102,7 @@ We analyzed the data across the political tenures:
 - **As expected USA shows a consistently higher and faster-growing CPI than Germany, indicating more significant cumulative price increases over the years. Germany's CPI remains more stable, reflecting controlled inflationary pressures compared to the USA.
 
 - **Inflation Rates:
-Both countries experience a sharp increase in inflation post-2020, likely due to global economic disruptions (e.g., pandemic recovery, supply chain issues, energy crises). Inflation rates in both countries begin to stabilize by 2023, though Germany shows slightly lower rates than the USA.
+Both countries experience a sharp increase in inflation post-2020, likely due to global economic disruptions (e.g., pandemic recovery, supply chain issues, energy crises). Inflation rates in both countries begin to stabilize by 2023, though Germany shows lower rates than the USA.
 Overall, the plotted data aligned with our hypothesis, although there might be many more external factors that impacted the GDP, Inflation and CPI trends, which we did not mention in our data analysis.
 
 {% include_relative GER_USA_Compar.html %}
